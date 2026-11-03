@@ -1,0 +1,10 @@
+name: FlameGauntlet
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+author: EnderDevelopment
+description: A custom item with special abilities
+api-version: "1.21"
+commands:
+  flamegauntlet:
+    description: Gives the player the Flame Gauntlet item.
+    usage: /flamegauntlet
